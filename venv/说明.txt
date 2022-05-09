@@ -1,0 +1,13 @@
+一、环境激活
+
+1.learn_flask目录下cmd下执行> venv\Scripts\activate
+
+2.
+set FLASK_APP=blog.py
+set FLASK_ENV=development
+flask run
+
+
+
+
+
